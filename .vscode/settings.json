@@ -1,0 +1,6 @@
+{
+  "blender.addon.moduleName": "order_objects",
+  "blender.addon.extensionsRepository": "user_default",
+  "blender.addon.sourceDirectory": "auto",
+  "blender.addon.loadDirectory": "auto"
+}
